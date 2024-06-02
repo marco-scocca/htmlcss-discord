@@ -41,6 +41,7 @@ body {
     padding-left: 200px;
     padding-right: 200px;
     padding-bottom: 50px;
+    height: 1000px;
 
 }
 
@@ -257,4 +258,17 @@ ul#menu li {
 .bg-wb {
     background-color: white;
     color: black;
+}
+
+.img-stars {
+    background-image: url(../img/stars.svg);
+    background-position: top;
+    background-repeat: no-repeat;
+    font-size: 35px;
+    padding-top: 50px;
+
+}
+
+font-size-10 {
+    font-size: 10px;
 }
