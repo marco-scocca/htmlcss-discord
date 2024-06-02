@@ -64,13 +64,13 @@ body {
 
 .col30 {
     height: 400px;
-    border: 1px solid black;
+
     width: 30%;
 }
 
 .col70 {
     height: 400px;
-    border: 1px solid black;
+
     width: 70%;
 }
 
@@ -220,4 +220,8 @@ ul#menu li {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.magin-left-100 {
+    margin-left: 100px;
 }
